@@ -1,0 +1,81 @@
+2016-02-15 12:11:39 INFO  Worker:37 - java.net.ConnectException: Connection refused: connect
+2016-02-15 12:11:53 FATAL Worker:37 - java.net.ConnectException: Connection refused: connect
+2016-02-15 12:45:15 INFO  Worker:39 - Connected
+2016-02-15 12:45:33 INFO  Worker:39 - Connected
+2016-02-15 12:45:49 INFO  Worker:39 - Connected
+2016-02-15 12:48:47 INFO  Worker:39 - Connected
+2016-02-15 12:48:48 INFO  Worker:40 - 211-Microsoft FTP Service status:
+     Connected to BILLING14
+     Logged in as ftp_altel
+     TYPE: ASCII, FORM: Nonprint; STRUcture: File; transfer MODE: STREAM
+     No data connection
+211 End of status.
+
+2016-02-15 12:49:05 INFO  Worker:39 - Connected
+2016-02-15 12:49:05 FATAL Worker:51 - java.lang.RuntimeException: Uncompilable source code - Erroneous tree type: <any>
+2016-02-15 12:49:20 INFO  Worker:39 - Connected
+2016-02-15 12:49:21 INFO  Worker:40 - [Lorg.apache.commons.net.ftp.FTPFile;@5ce65a89
+2016-02-15 12:50:23 INFO  Worker:39 - Connected
+2016-02-15 12:50:24 INFO  Worker:44 - ArlanSI
+2016-02-15 12:50:24 INFO  Worker:44 - Astana
+2016-02-15 12:50:25 INFO  Worker:44 - avaya
+2016-02-15 12:50:26 INFO  Worker:44 - bercut
+2016-02-15 12:50:27 INFO  Worker:44 - IT
+2016-02-15 12:50:27 INFO  Worker:44 - KT
+2016-02-15 12:50:28 INFO  Worker:44 - LTE
+2016-02-15 12:50:29 INFO  Worker:44 - M2000
+2016-02-15 12:50:29 INFO  Worker:44 - M-Sales
+2016-02-15 12:50:30 INFO  Worker:44 - NRTDE
+2016-02-15 12:50:31 INFO  Worker:44 - PWC
+2016-02-15 12:50:32 INFO  Worker:44 - Remedy
+2016-02-15 12:50:32 INFO  Worker:44 - Share
+2016-02-15 12:50:33 INFO  Worker:44 - Tele2
+2016-02-15 12:50:34 INFO  Worker:44 - TK
+2016-02-15 12:51:36 INFO  Worker:40 - Connected
+2016-02-15 12:51:36 INFO  Worker:45 - ArlanSI
+2016-02-15 12:51:36 INFO  Worker:45 - Astana
+2016-02-15 12:51:36 INFO  Worker:45 - avaya
+2016-02-15 12:51:36 INFO  Worker:45 - bercut
+2016-02-15 12:51:36 INFO  Worker:45 - IT
+2016-02-15 12:51:36 INFO  Worker:45 - KT
+2016-02-15 12:51:36 INFO  Worker:45 - LTE
+2016-02-15 12:51:36 INFO  Worker:45 - M2000
+2016-02-15 12:51:36 INFO  Worker:45 - M-Sales
+2016-02-15 12:51:36 INFO  Worker:45 - NRTDE
+2016-02-15 12:51:36 INFO  Worker:45 - PWC
+2016-02-15 12:51:36 INFO  Worker:45 - Remedy
+2016-02-15 12:51:36 INFO  Worker:45 - Share
+2016-02-15 12:51:36 INFO  Worker:45 - Tele2
+2016-02-15 12:51:36 INFO  Worker:45 - TK
+2016-02-15 13:43:21 INFO  Worker:40 - Connected
+2016-02-15 13:43:21 INFO  Worker:45 - ArlanSI
+2016-02-15 13:43:21 FATAL Worker:59 - java.lang.RuntimeException: Uncompilable source code - not a statement
+2016-02-15 13:43:43 FATAL Worker:59 - java.net.UnknownHostException: 172.16.2.11/Tele2
+2016-02-15 13:43:49 FATAL Worker:59 - java.net.UnknownHostException: 172.16.2.11\Tele2
+2016-02-15 13:44:33 FATAL Worker:60 - java.net.UnknownHostException: 172.16.2.11\Tele2
+2016-02-15 13:44:40 INFO  Worker:41 - Connected
+2016-02-15 13:44:40 INFO  Worker:46 - ArlanSI
+2016-02-15 13:44:40 INFO  Worker:46 - Astana
+2016-02-15 13:44:40 INFO  Worker:46 - avaya
+2016-02-15 13:44:40 INFO  Worker:46 - bercut
+2016-02-15 13:44:40 INFO  Worker:46 - IT
+2016-02-15 13:44:40 INFO  Worker:46 - KT
+2016-02-15 13:44:40 INFO  Worker:46 - LTE
+2016-02-15 13:44:40 INFO  Worker:46 - M2000
+2016-02-15 13:44:40 INFO  Worker:46 - M-Sales
+2016-02-15 13:44:40 INFO  Worker:46 - NRTDE
+2016-02-15 13:44:40 INFO  Worker:46 - PWC
+2016-02-15 13:44:40 INFO  Worker:46 - Remedy
+2016-02-15 13:44:40 INFO  Worker:46 - Share
+2016-02-15 13:44:40 INFO  Worker:46 - Tele2
+2016-02-15 13:44:40 INFO  Worker:46 - TK
+2016-02-15 13:44:50 INFO  Worker:41 - Connected
+2016-02-15 13:59:11 INFO  Worker:44 - Connected
+2016-02-15 13:59:22 INFO  Worker:44 - Connected
+2016-02-15 14:00:12 INFO  Worker:44 - Connected
+2016-02-15 14:00:22 INFO  Worker:90 - File P_DATA_R9_727_20160201_000055_02942196.cdr has been uploaded
+2016-02-15 14:58:42 INFO  Worker:44 - Connected
+2016-02-15 14:58:42 INFO  Worker:90 - File build.xml has been uploaded
+2016-02-15 14:58:46 INFO  Worker:90 - File log4j-application.log has been uploaded
+2016-02-15 14:58:46 INFO  Worker:90 - File log4j.properties has been uploaded
+2016-02-15 14:58:56 INFO  Worker:90 - File P_DATA_R9_727_20160201_000055_02942196.cdr has been uploaded

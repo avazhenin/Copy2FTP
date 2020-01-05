@@ -1,0 +1,10 @@
+<root>
+	<parameters>
+		<dir>d:\Dropbox\Programming\NetBeansProjects\NetBeansProjects\Copy2FTP\UploadDir\</dir>
+		<ftpHost>172.16.2.11</ftpHost>
+		<ftpUser>ftp_altel</ftpUser>
+		<ftpPwd>507V4ObT</ftpPwd>
+		<ftpWorkDir>Tele2</ftpWorkDir>
+		<log4jPath>d:\Dropbox\Programming\NetBeansProjects\NetBeansProjects\Copy2FTP\log4j.properties</log4jPath>
+	</parameters>
+</root>
